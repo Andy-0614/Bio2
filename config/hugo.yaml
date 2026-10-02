@@ -1,4 +1,4 @@
-baseURL: http://127.0.0.1
+baseURL: https://test.jingan.me/
 title: ExampleSite
 paginate: 5
 theme: PaperMod
